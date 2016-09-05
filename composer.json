@@ -1,3 +1,6 @@
 {
-	"name": "nmapx/phalcon-ide"
+	"name": "nmapx/phalcon-ide",
+	"type": "library",
+	"description": "Phalcon stub for IDE - vendor",
+	"keywords": [ "phalcon", "php", "stub", "source", "vendor", "ide", "editor" ]
 }
